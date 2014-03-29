@@ -60,6 +60,6 @@ this is method ``printf(`\n`)``
 
 ```js
 function method() {
-  alert('javascript);
+  alert('javascript');
 }
 ```
